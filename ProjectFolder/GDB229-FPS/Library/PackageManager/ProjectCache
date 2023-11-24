@@ -1,0 +1,24 @@
+m_ProjectFiles:
+  m_ManifestFileStatus:
+    m_FilePath: C:/Users/mille/OneDrive/Documents/School/Portfolio2 Fps/Team FPS/ProjectRepo/Dynamic-Ants/ProjectFolder/GDB229-FPS/Packages/manifest.json
+    m_PathExists: 1
+    m_ContentTrackingEnabled: 1
+    m_ModificationDate:
+      serializedVersion: 2
+      ticks: 638363957002024178
+    m_Hash: 2467552008
+  m_LockFileStatus:
+    m_FilePath: C:/Users/mille/OneDrive/Documents/School/Portfolio2 Fps/Team FPS/ProjectRepo/Dynamic-Ants/ProjectFolder/GDB229-FPS/Packages/packages-lock.json
+    m_PathExists: 0
+    m_ContentTrackingEnabled: 1
+    m_ModificationDate:
+      serializedVersion: 2
+      ticks: 0
+    m_Hash: 0
+m_EmbeddedPackageManifests:
+  m_ManifestsStatus: {}
+m_LocalPackages:
+  m_LocalFileStatus: []
+m_ProjectPath: C:/Users/mille/OneDrive/Documents/School/Portfolio2 Fps/Team FPS/ProjectRepo/Dynamic-Ants/ProjectFolder/GDB229-FPS/Packages
+m_EditorVersion: 2021.1.5f1 (3737af19df53)
+m_ResolvedPackages: []
