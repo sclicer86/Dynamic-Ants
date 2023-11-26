@@ -1,3 +1,4 @@
+Library\Bee\artifacts\movedfrom\Unity.VisualStudio.Editor.ref.dll_4221946230532187309.movedfrom
 Library\Bee\artifacts\movedfrom\UnityEditor.CoreModule.dll_10790558263261837085.movedfrom
 Library\Bee\artifacts\movedfrom\UnityEditor.DeviceSimulatorModule.dll_4590517537325984820.movedfrom
 Library\Bee\artifacts\movedfrom\UnityEditor.dll_17543448592258066408.movedfrom
@@ -22,8 +23,10 @@ Library\Bee\artifacts\movedfrom\UnityEngine.GameCenterModule.dll_108449276989597
 Library\Bee\artifacts\movedfrom\UnityEngine.GIModule.dll_13268170405943716843.movedfrom
 Library\Bee\artifacts\movedfrom\UnityEngine.GridModule.dll_10831635196268951615.movedfrom
 Library\Bee\artifacts\movedfrom\UnityEngine.HotReloadModule.dll_11925711165853608257.movedfrom
+Library\Bee\artifacts\movedfrom\UnityEngine.IMGUIModule.dll_11685565414766082770.movedfrom
 Library\Bee\artifacts\movedfrom\UnityEngine.InputLegacyModule.dll_11790618392157722814.movedfrom
 Library\Bee\artifacts\movedfrom\UnityEngine.InputModule.dll_15006451486949346197.movedfrom
+Library\Bee\artifacts\movedfrom\UnityEngine.JSONSerializeModule.dll_16845637285713874403.movedfrom
 Library\Bee\artifacts\movedfrom\UnityEngine.LocalizationModule.dll_12220098949610977810.movedfrom
 Library\Bee\artifacts\movedfrom\UnityEngine.PerformanceReportingModule.dll_15023107936482361095.movedfrom
 Library\Bee\artifacts\movedfrom\UnityEngine.ProfilerModule.dll_12214666031694891378.movedfrom
