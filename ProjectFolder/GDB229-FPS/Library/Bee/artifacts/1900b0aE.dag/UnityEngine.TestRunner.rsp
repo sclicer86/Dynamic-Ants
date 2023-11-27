@@ -140,6 +140,7 @@
 -r:"F:/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.JSONSerializeModule.dll"
 -r:"F:/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.LocalizationModule.dll"
 -r:"F:/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.PerformanceReportingModule.dll"
+-r:"F:/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.PhysicsModule.dll"
 -r:"F:/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.ProfilerModule.dll"
 -r:"F:/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll"
 -r:"F:/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.SharedInternalsModule.dll"
